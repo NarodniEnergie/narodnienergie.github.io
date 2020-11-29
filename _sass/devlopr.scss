@@ -75,7 +75,7 @@ html[data-theme="light"] {
         --highlight-color: hsl(0, 0%, 80%);
         --light-border-color: rgb(230, 230, 230);
         --light-text-color: rgb(72, 72, 74);
-        --link-color: #ca6521;
+        --link-color: #14a79d;
         --nav-color: #ffffff;
         --nav-link-color: #111111;
         --search-color: #ababab;
@@ -505,8 +505,8 @@ header {
 
 /* jumbotron */
 .jumbotron {
-    background-color: var(--main-background-color) !important;
-    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-color: #94f7fd !important;//var(--main-background-color) !important;
+    //background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;

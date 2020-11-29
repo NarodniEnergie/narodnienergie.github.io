@@ -11,14 +11,12 @@ lang: cs
 urls:
     - text: Home
       url: /
-    - text: About
+    - text: O nás
       url: /about
-    - text: Blog
-      url: /blog
+    - text: Členové
+      url: /members
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
     - text: Styleguide

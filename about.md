@@ -1,5 +1,5 @@
 ---
-title: About
+title: O nás
 menus: header
 layout: page
 permalink: /about/
