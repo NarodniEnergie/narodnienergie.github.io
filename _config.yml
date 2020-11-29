@@ -13,16 +13,14 @@ urls:
       url: /
     - text: O nás
       url: /about
+    - text: Program
+      url: /program
     - text: Členové
       url: /members
     - text: Gallery
       url: /gallery
     - text: Contact
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
 
 # Edit Author details (For multi authors check _data/authors.yml)
 

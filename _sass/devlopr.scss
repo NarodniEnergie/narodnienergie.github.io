@@ -114,7 +114,8 @@ ol, ul {
 .center{
     /*top: 50%;*/
 	left: 50%;
-	transform: translate(-50%,0);
+    transform: translate(-75%,0);
+    width: 50% !important;
 	position: absolute;
 }
 
@@ -505,8 +506,7 @@ header {
 
 /* jumbotron */
 .jumbotron {
-    background-color: #94f7fd !important;//var(--main-background-color) !important;
-    //background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-color: #94f7fd !important;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;

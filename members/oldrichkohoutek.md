@@ -4,6 +4,8 @@ title: Oldřich Kohoutek
 permalink: /members/oldrichkohoutek
 authorSkills: >-
     <p>Rozhodně ne programování</p>
+    <p>Hypnotizační pohyby zadkem</p>
+    <p>Čarování</p>
 
 show_author_work_experiences: false
 show_author_education_details: true
