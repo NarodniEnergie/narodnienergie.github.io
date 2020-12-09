@@ -17,10 +17,10 @@ urls:
       url: /program
     - text: Členové
       url: /members
-    - text: Gallery
-      url: /gallery
-    - text: Contact
-      url : /contact
+    # - text: Gallery
+    #   url: /gallery
+    # - text: Contact
+    #   url : /contact
 
 # Edit Author details (For multi authors check _data/authors.yml)
 

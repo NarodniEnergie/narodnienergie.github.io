@@ -19,11 +19,25 @@ permalink: /program/
 
 <br><br><br>
 
+# Doprava
+## Přechod k německému systému stavby dálnic
+* efektivnější
+
+## Dotování vodíkových aut
+* ekologičtější než benzinová auta
+* efektivnější než elektroauta
+
+<br><br><br>
+
 # Školství
 ## Ustálení maturit
 * ulehčení života studentů
 * snadnější příprava na budoucí zaměstnání/studium na vysoké škole
 * jednodušší práce také pro učitele
+
+## Dobrovolná maturita z literatury
+* ulehčení práce studentům
+* zvýšení úspěšnosti maturity z ČJ
   
 ## Zavedení dobrovolnosti vyučovaných předmětů u vyšších ročníků středních škol
 * jednalo by se o třídy seminárních ročníků
@@ -69,3 +83,6 @@ permalink: /program/
 
 ## Homosexuální sňatky
 * Všichni jsou si rovni, tak proč by si heterosexuálové měli být rovnější?
+
+## Pouliční lampy s čidlem
+* menší světelné znečištění
