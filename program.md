@@ -4,10 +4,22 @@ menus: header
 layout: pageWithJumbotron
 permalink: /program/
 ---
+# IT
+## Všechny důležité informace na jedné webové stránce
+* ulehčení života všech, kteří chtějí něco najít
+* vždy vím kde něco najdu, nepotřebuju žádný externí vyhledávač
 
-## Homosexuální sňatky
-* Všichni jsou si rovni, tak proč by si heterosexuálové měli být rovnější?
-  
+## Jednotný styl webových stránek všech státních institucí
+* umožní jednoduchou a intuitivní orientaci
+* pokud se orientuji na jedné stránce orientuji se všude
+
+## Centrální digitální autorita kontrolující výše uvedené body
+* nadále také kontorluje postupy a činosti institucí v digitálním světě čímš zajišťení konzistence napříč institucemi
+* jinak by byl totální chaos
+
+<br><br><br>
+
+# Školství
 ## Ustálení maturit
 * ulehčení života studentů
 * snadnější příprava na budoucí zaměstnání/studium na vysoké škole
@@ -18,14 +30,22 @@ permalink: /program/
 * bylo by lepší se zaměřit vyloženě na předměty, kterým se chceme věnovat do budoucna
 * dříve to tak bylo a fungovalo to, tak proč to nevrátit zpět
   
-## Zrušení svěřenských fondů
-* navrhuje se zrušit svěřenské fondy, aby je nejmenovaný oligarcha (jistý AB) nemohl zneužívat pro své politické zájmy
-* zjednodušení práce pro účetní, kteří nebudou muset řešit obskurní operace
+## Zrušení inkluze ve školství
+* zvýšení průměrné úrovně znalostí u všech zasažených skupin
+* chytří žáci nebudou zpomalováni inkludovanými spolužáky
+* inkludovaní žáci nebudou taháni i přes neznalost dále chytrými spolužáky
   
 ## Zrušení pamlskové vyhlášky
 * stejně to nefunguje, děti si koupí jídlo jinde
 * všichni budou šťastní a v teple díky čokošce z automatu
 * pamlsková vyhláška neřeší dětskou obezitu, jen přesouvá existující problém ze škol ven
+
+<br><br><br>
+
+# Ekonomie a ekonomika
+## Zrušení svěřenských fondů
+* navrhuje se zrušit svěřenské fondy, aby je nejmenovaný oligarcha (jistý AB) nemohl zneužívat pro své politické zájmy
+* zjednodušení práce pro účetní, kteří nebudou muset řešit obskurní operace
   
 ## Příchod 4. operátora na český trh ⟹ Snížení cen datového připojení
 * nastavení podmínek pro 4. operátora tak, aby pro něj bylo výhodné přijít do České republiky
@@ -33,19 +53,19 @@ permalink: /program/
   
 ## Clo na neekologické státy
 * zvýšení konkurenceschopnosti českých výrobců
-  
+
+<br><br><br>
+
+# Ostatní
 ## Trest smrti (jen když je vina nezvratně prokázána) 
 * rozsudek o trestu smrti by nastal jenom u těch nejhorších trestných činů (teroristické útoky)
 * rozhodnutí by záleželo na rozhodnutí Nejvyššího soudu
 * je to ekonomicky výhodné
-  
-## Zrušení inkluze ve školství
-* zvýšení průměrné úrovně znalostí u všech zasažených skupin
-* chytří žáci nebudou zpomalováni inkludovanými spolužáky
-* inkludovaní žáci nebudou taháni i přes neznalost dále chytrými spolužáky
   
 ## Sociální dávky podmíněné zaměstnaností
 * snížilo by se procento nezaměstnanosti
 * ekonomicky výhodné
 * možnost snížení sociálního pojištění → zvýšení mezd
 
+## Homosexuální sňatky
+* Všichni jsou si rovni, tak proč by si heterosexuálové měli být rovnější?

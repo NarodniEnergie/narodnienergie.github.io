@@ -803,6 +803,14 @@ footer {
 }
 
 
+@media (max-width:680px){
+    .center{
+        left: 0;
+        transform: translate(0,0);
+        width: 100% !important;
+        position: absolute;
+     }
+}
 
 /* Responsive Media Queries */
 
