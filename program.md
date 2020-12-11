@@ -71,11 +71,6 @@ permalink: /program/
 <br><br><br>
 
 # Ostatní
-## Trest smrti (jen když je vina nezvratně prokázána) 
-* rozsudek o trestu smrti by nastal jenom u těch nejhorších trestných činů (teroristické útoky)
-* rozhodnutí by záleželo na rozhodnutí Nejvyššího soudu
-* je to ekonomicky výhodné
-  
 ## Sociální dávky podmíněné zaměstnaností
 * snížilo by se procento nezaměstnanosti
 * ekonomicky výhodné
