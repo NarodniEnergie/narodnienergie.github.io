@@ -670,16 +670,16 @@ header {
 }
 
 
-@media (min-width: 768px) {
-    .offset-md-1 {
-    margin-left: 3.333333% !important;
-    }
+// @media (min-width: 768px) {
+//     // .offset-md-1 {
+//     // margin-left: 3.333333% !important;
+//     // }
     // #topNav{
     //     padding-left: 100px;
     //     padding-right: 100px;
     //     background-color: var(--nav-color) !important;
     // }
-}
+// }
 
 #profile-card {
     text-align: center;
@@ -1296,3 +1296,42 @@ footer {
 .highlight .gu { color: #75715e; } /* Generic.Subheading & Diff Unified/Comment? */
 .highlight .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
 .highlight .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
+
+
+input[id^="spoiler"]{
+    display: none;
+}
+input[id^="spoiler"] + label {
+    display: block;
+    margin: 0 auto;
+    padding: 5px 20px;
+    background: var(--box-background-color);
+    color: var(--main-text-color);
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all .6s;
+}
+input[id^="spoiler"]:checked + label {
+    color: rgb(255, 0, 242);
+    background: var(--light-border-color);
+}
+input[id^="spoiler"] ~ .spoiler {
+    width: 98%;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
+    margin: 10px auto 0; 
+    padding: 10px; 
+    background: var(--newsletter-background-color);
+    border: 1px solid var(--light-border-color);
+    border-radius: 8px;
+    transition: all .6s;
+}
+input[id^="spoiler"]:checked + label + .spoiler{
+    height: auto;
+    opacity: 1;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+   
