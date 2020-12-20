@@ -115,7 +115,7 @@ ol, ul {
     /*top: 50%;*/
 	left: 50%;
     transform: translate(-75%,0);
-    width: 50% !important;
+    //width: 50% !important;
 	position: absolute;
 }
 
@@ -1303,7 +1303,7 @@ input[id^="spoiler"]{
 }
 input[id^="spoiler"] + label {
     display: block;
-    margin: 0 auto;
+    //margin: 0 auto;
     padding: 5px 20px;
     background: var(--box-background-color);
     color: var(--main-text-color);
