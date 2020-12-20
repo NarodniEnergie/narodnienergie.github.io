@@ -4,8 +4,9 @@ title: Oldřich Kohoutek
 permalink: /members/oldrichkohoutek
 authorSkills: >-
     <p>Rozhodně ne programování</p>
-    <p>Hypnotizační pohyby zadkem</p>
     <p>Čarování</p>
+
+author_bio: Oldřich Kohoutek se jako orientační běžec zajímá o přírodu a jako student semináře biologie je náš odborník na životní prostředí.
 
 show_author_work_experiences: false
 show_author_education_details: true

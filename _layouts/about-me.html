@@ -94,8 +94,7 @@ layout: default
     </div>
 
     <div class="card">
-      <h1>Skills</h1>
-
+      <h1>Schopnosti a dovednosti</h1>
       {{ page.authorSkills }}
     </div>
 
@@ -110,12 +109,12 @@ layout: default
   <div class="col-lg-7">
     {% if page.author_bio %}
     <div class="card">
-      <h1 class="card-title">About</h1>
+      <h1 class="card-title">O členovi</h1>
       <p>{{ page.author_bio }}</p>
     </div>
     {% endif %} {% if page.show_author_project_details == true %}
     <div id="author_projects" class="card">
-      <h1 class="card-title">Projects</h1>
+      <h1 class="card-title">Projekty</h1>
       <br />
       {% for project in page.author_project_details %} {% if project.visibility
       == true %}
@@ -142,7 +141,7 @@ layout: default
     </div>
     {% endif %} {% if page.show_author_work_experiences == true %}
     <div class="card">
-      <h1 class="card-title">Work Experience</h1>
+      <h1 class="card-title">Pracovní zkušenosti</h1>
       <br />
       {% for exp in page.author_work_experiences %} {% if exp.visibility == true
       %}
@@ -164,7 +163,7 @@ layout: default
     </div>
     {% endif %} {% if page.show_author_education_details == true %}
     <div class="card">
-      <h1 class="card-title">Education</h1>
+      <h1 class="card-title">Vzdělání</h1>
       <br />
       {% for detail in page.author_education_details %} {% if detail.visibility
       == true %}

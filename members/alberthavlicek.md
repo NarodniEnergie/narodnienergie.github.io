@@ -7,6 +7,8 @@ permalink: /members/alberthavlicek
 authorSkills: >-
     <p>Programování</p>
 
+author_bio: Orientační běžec a programátor, stará se o webové stránky a další software strany. Náš odborník na IT a transparentnost státu.
+
 show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: false
