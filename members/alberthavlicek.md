@@ -5,7 +5,7 @@ twitter_username: Bertik23
 github_username:  Bertik23
 permalink: /members/alberthavlicek
 authorSkills: >-
-    <p>Programování</p>
+    <p>Programování</p><p>Orientační běh</p>
 
 author_bio: Orientační běžec a programátor, stará se o webové stránky a další software strany. Náš odborník na IT a transparentnost státu.
 

@@ -6,7 +6,7 @@ authorSkills: >-
     <p>Rozhodně ne programování</p>
     <p>Čarování</p>
 
-author_bio: Oldřich Kohoutek se jako orientační běžec zajímá o přírodu a jako student semináře biologie je náš odborník na životní prostředí.
+author_bio: Oldřich Kohoutek se jako orientační běžec zajímá o přírodu a jako student semináře biologie je náš odborník na životní prostředí a školství.
 
 show_author_work_experiences: false
 show_author_education_details: true

@@ -5,7 +5,7 @@ twitter_username: kulvejt
 github_username:  bkulv
 permalink: /members/bohumilkulvejt
 authorSkills: >-
-    <p>Programování</p>
+    <p>Programování</p><p>Schopný vůdce</p>
 
 author_bio: Bohumil je náš předseda, znalec matematiky, zákonů a příležitostný programátor. Náš odborník na ekonomii, ekonomiku a právo.
 

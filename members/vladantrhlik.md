@@ -4,7 +4,9 @@ title: Vladan Trhlík
 github_username:  vladantrhlik
 permalink: /members/vladantrhlik
 authorSkills: >-
-    <p>Programování</p>
+    <p>Programování</p><p>Skateboarding</p>
+
+author_bio: Nadějný programátor a suprový skejťák, náš odborník na IT a všechny drobnosti.
 
 show_author_work_experiences: true
 show_author_education_details: true

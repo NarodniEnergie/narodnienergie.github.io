@@ -4,7 +4,9 @@ title: Adam Králič
 twitter_username: kralic_adam
 permalink: /members/adamkralic
 authorSkills: >-
-    <p>Rozhodně ne programování</p>
+    <p>Hraní her</p><p>Běhání</p><p>Účko sokolovského volejballového týmu</p>
+
+author_bio: Adam, výborný student na gymso, je náš odborník na školství, který se snaží prosadit zájmy studentů.
 
 show_author_work_experiences: false
 show_author_education_details: true
